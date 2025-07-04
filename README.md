@@ -1,2 +1,2 @@
-# Mamba-related-Papers-collection
-This project aims to organize the recently read papers related to mamba.We will keep adding papers and improving the list. Any suggestions and PRs are welcome!
+# Mamba相关文献整理
+本贴旨在整理我们阅读到的Mamba相关文献，后续会添加更多的文献和其他内容，欢迎大家与我们一起学习交流！
