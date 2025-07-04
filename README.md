@@ -1,6 +1,7 @@
 # Mamba相关文献整理
 
-本贴旨在整理我们阅读到的Mamba相关文献，后续会添加更多的文献和其他内容，欢迎大家与我们一起学习交流！
+本贴旨在整理我们阅读到的Mamba相关文献，后续会对文献、目录和其他内容持续优化，欢迎大家与我们一起学习交流！
+
 
 ## 相关论文
 
@@ -22,3 +23,12 @@ U-Mamba: Enhancing Long-range Dependency for Biomedical Image (arXiv 2024) [[pap
 
 Perceive Anything: Recognize, Explain, Caption, and Segment Anything in Images and (arXiv 2025) [[paper]](http://arxiv.org/abs/2506.05302)
 
+GroupMamba: Parameter-Efficient and Accurate Group Visual State Space Model (CVPR 2025) [[paper]](https://arxiv.org/abs/2407.13772v1)
+
+JamMa: Ultra-lightweight Local Feature Matching with Joint Mamba (CVPR 2025) [[paper]](https://arxiv.org/abs/2503.03437)
+
+ Advancing Textual Prompt Learning with Anchored Attributes ( ICCV 2025) [[paper]](https://arxiv.org/abs/2412.09442)
+
+Hessian Geometry of Latent Space in Generative Models (ICML 2025) [[paper]](https://arxiv.org/abs/2506.10632)
+
+A survey on physics informed reinforcement learning: Review and open problems (ESWA 2025) [[review]](https://www.sciencedirect.com/science/article/pii/S0957417425017865)
