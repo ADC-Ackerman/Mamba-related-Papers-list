@@ -1,8 +1,7 @@
 # Mamba相关文献整理
 
 本贴旨在整理我们阅读到的Mamba相关文献，后续会对文献、目录和其他内容持续优化，欢迎大家与我们一起学习交流！
-
-
+<br><br>
 ## 相关论文
 
  Advances in attention mechanisms for medical image (CSR 2025) [[paper]](https://www.sciencedirect.com/science/article/pii/S1574013724001047)
