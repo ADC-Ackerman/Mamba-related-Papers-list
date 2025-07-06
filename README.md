@@ -31,3 +31,5 @@ JamMa: Ultra-lightweight Local Feature Matching with Joint Mamba (CVPR 2025) [[p
 Hessian Geometry of Latent Space in Generative Models (ICML 2025) [[paper]](https://arxiv.org/abs/2506.10632)
 
 A survey on physics informed reinforcement learning: Review and open problems (ESWA 2025) [[review]](https://www.sciencedirect.com/science/article/pii/S0957417425017865)
+
+试一下
