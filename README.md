@@ -32,4 +32,4 @@ Hessian Geometry of Latent Space in Generative Models (ICML 2025) [[paper]](http
 
 A survey on physics informed reinforcement learning: Review and open problems (ESWA 2025) [[review]](https://www.sciencedirect.com/science/article/pii/S0957417425017865)
 
-MambaClinix: Hierarchical Gated Convolution and Mamba-Based U-Net for Enhanced 3D Medical Image Segmentation   （https://arxiv.org/pdf/2409.12533）
+MambaClinix: Hierarchical Gated Convolution and Mamba-Based U-Net for Enhanced 3D Medical Image Segmentation  [[paper]](https://arxiv.org/pdf/2409.12533)
