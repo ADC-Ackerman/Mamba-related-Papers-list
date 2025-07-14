@@ -33,3 +33,9 @@ Hessian Geometry of Latent Space in Generative Models (ICML 2025) [[paper]](http
 A survey on physics informed reinforcement learning: Review and open problems (ESWA 2025) [[review]](https://www.sciencedirect.com/science/article/pii/S0957417425017865)
 
 MambaClinix: Hierarchical Gated Convolution and Mamba-Based U-Net for Enhanced 3D Medical Image Segmentation  [[paper]](https://arxiv.org/pdf/2409.12533)
+
+KM-UNet KAN Mamba UNet for medical image segmentation (arXiv 2025) [[paper]](https://arxiv.org/abs/2501.02559)
+
+MSM-UNet: A medical image segmentation method based on wavelet transform and multi-scale Mamba-UNet (ESWA 2025) [[paper]](https://www.sciencedirect.com/science/article/pii/S0957417425018603?via%3Dihub)
+
+LKM-UNet: Large Kernel Vision Mamba UNet for Medical Image Segmentation (arXiv 2025) [[paper]](https://arxiv.org/abs/2403.07332)
