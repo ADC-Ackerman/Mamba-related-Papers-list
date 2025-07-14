@@ -21,13 +21,13 @@
 - U-Mamba: Enhancing Long-range Dependency for Biomedical Image (arXiv 2024) [[paper]](http://arxiv.org/abs/2401.04722) [[code]](https://github.com/bowang-lab/U-Mamba)  
   **介绍**：通过引入酉变换改进Mamba，增强生物医学图像中的长距离依赖建模，在病理切片细胞核分割中减少15%的假阴性。
 
-  VMamba: Visual State Space Model (NeurIPS 2024) [[paper]](https://arxiv.org/abs/2401.10166) [[code]](https://github.com/MzeroMiko/VMamba)
+- VMamba: Visual State Space Model (NeurIPS 2024) [[paper]](https://arxiv.org/abs/2401.10166) [[code]](https://github.com/MzeroMiko/VMamba)
   **介绍**：首次将 Mamba 的状态空间模型（SSM）扩展到视觉领域，提出视觉状态空间建模框架。通过引入位置感知门控机制，VMamba 在病理切片细胞核分割中实现了比传统 Transformer 快 3 倍的推理速度，同时保持 91.2% 的 Dice 系数。
 
-  LightM-UNet: Mamba Assists in Lightweight UNet for Medical Image Segmentation (arXiv 2024) [[paper]](https://arxiv.org/abs/2403.05246) [[code]](https://github.com/MrBlankness/LightM-UNet)
+- LightM-UNet: Mamba Assists in Lightweight UNet for Medical Image Segmentation (arXiv 2024) [[paper]](https://arxiv.org/abs/2403.05246) [[code]](https://github.com/MrBlankness/LightM-UNet)
    **介绍**：设计轻量化 Mamba 模块替代传统 UNet 的卷积层，在保持模型参数量低于 5MB 的同时，显著提升小目标（如乳腺微钙化）的检测精度。在 INbreast 数据集上，LightM-UNet 的 AUC-ROC 达 0.94，较基线提升 7%。
 
-  Swin-UMamba: Mamba-based UNet with ImageNet-based pretraining (arXiv 2024) [[paper]](https://arxiv.org/abs/2402.03302) [[code]](https://github.com/JiarunLiu/Swin-UMamba)  
+- Swin-UMamba: Mamba-based UNet with ImageNet-based pretraining (arXiv 2024) [[paper]](https://arxiv.org/abs/2402.03302) [[code]](https://github.com/JiarunLiu/Swin-UMamba)  
    **介绍**：结合 Swin Transformer 的层次化结构与 Mamba 的长序列建模能力，通过 ImageNet 预训练初始化 Mamba 参数。在腹部 CT 多器官分割任务中，Swin-UMamba 的平均 Dice 系数达 0.89，较纯 CNN 模型提升 5.3%。
 
 - GroupMamba: Parameter-Efficient and Accurate Group Visual State Space Model (CVPR 2025) [[paper]](https://arxiv.org/abs/2407.13772v1) [[code]](https://github.com/Amshaker/GroupMamba)  
@@ -42,7 +42,7 @@
 - KM-UNet KAN Mamba UNet for medical image segmentation (arXiv 2025) [[paper]](https://arxiv.org/abs/2501.02559) [[code]](https://github.com/2760613195/KM_UNet)  
   **介绍**：提出知识感知Mamba（KAN）模块，通过整合先验解剖知识提升分割精度，在胰腺分割任务中超越SOTA方法。
 
-  Multi-Scale VMamba: Hierarchy in Hierarchy Visual State Space Model (arXiv 2025) [[paper]](https://arxiv.org/abs/2405.14174) [[code]](https://github.com/YuHengsss/MSVMamba)
+- Multi-Scale VMamba: Hierarchy in Hierarchy Visual State Space Model (arXiv 2025) [[paper]](https://arxiv.org/abs/2405.14174) [[code]](https://github.com/YuHengsss/MSVMamba)
   **介绍**：构建多层级 Mamba 架构，通过跨尺度状态交互增强多分辨率特征融合。在眼底血管分割任务中，Multi-Scale VMamba 的 F1-score 达 0.91，尤其对直径 < 50μm 的微血管检测率提升 12%。
 
 - MSM-UNet: A medical image segmentation method based on wavelet transform and multi-scale Mamba-UNet (ESWA 2025) [[paper]](https://www.sciencedirect.com/science/article/pii/S0957417425018603?via%3Dihub) 
