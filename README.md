@@ -59,6 +59,9 @@
 - Generalized Source-Free Domain-adaptive Segmentation via Reliable Knowledge Propagation (ACM MM 2024) [[paper]](https://dl.acm.org/doi/10.1145/3664647.3680567)
   **介绍**：提出无源域自适应分割框架，通过知识蒸馏和一致性正则化，在跨扫描仪前列腺分割中提升12%性能。
 
+- Interactive Medical Image Segmentation: A Benchmark Dataset and Baseline (arXiv 2024) [[paper]](https://arxiv.org/pdf/2411.12814)
+  **介绍**：提出IMIS 基线网络，支持通过点击、边界框、文本提示及其组合等交互式输入生成高质量掩码
+  
 #### 通用视觉与多任务
 - Perceive Anything: Recognize, Explain, Caption, and Segment Anything in Images and (arXiv 2025) [[paper]](http://arxiv.org/abs/2506.05302) 
   **介绍**：构建统一视觉基础模型，支持图像识别、解释、描述和分割多任务，在COCO数据集上实现78.3%的泛化能力。
